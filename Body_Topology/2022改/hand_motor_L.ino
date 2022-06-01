@@ -1,7 +1,7 @@
 /*
  *            ！！注意左右邊順逆時針問題！！
  *              
- * 2022.09.29 Body Topology hand_part for 左邊
+ * 2021.09.29 Body Topology hand_part for 左邊
  *            Motor Arduino Code
  *            
  * 2022.06.01 for 2022改           
