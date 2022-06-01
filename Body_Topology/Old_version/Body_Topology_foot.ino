@@ -1,8 +1,8 @@
 /*
- * 2022.09.29 Body Topology foot_part 
+ * 2021.09.29 Body Topology foot_part 
  *            LED & Motor Arduino Code
  *            
- * 2022.11.15 Body Topology foot_part           
+ * 2021.11.15 Body Topology foot_part           
  *            for NTT LabX
  * by Xylo Hsiao
  */
