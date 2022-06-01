@@ -3,6 +3,9 @@
  *              
  * 2022.09.29 Body Topology hand_part for 左邊
  *            Motor Arduino Code
+ *            
+ * 2022.06.01 for 2022改           
+ * 
  * by Xylo Hsiao
  */
 
@@ -55,7 +58,7 @@ void loop() {
     motorState = 2;
   }
 
-  if (triggerSignal == LOW && motorState ==2){     //49 for keybroad"1"
+  if (triggerSignal == HIGH && motorState ==2){     //49 for keybroad"1"
     light();
     tightL();
     delay(handMotor_time);
