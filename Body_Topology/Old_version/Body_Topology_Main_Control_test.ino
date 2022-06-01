@@ -1,7 +1,7 @@
 /*         
- * 2022.09.24 Body Topology Main Control & Airpump
+ * 2021.09.24 Body Topology Main Control & Airpump
  *            Arduino Code
- * 2020.09.29 新增，頸部LED不用重新斷電即可重開
+ * 2021.09.29 新增，頸部LED不用重新斷電即可重開
  * by Xylo Hsiao
  */
 
