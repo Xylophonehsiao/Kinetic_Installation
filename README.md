@@ -18,3 +18,7 @@ https://github.com/Xylophonehsiao/Kinetic_Installation/files/9376128/P.eng.s.Jou
 https://www.dropbox.com/sh/bmhif99iicfqimd/AAAdbBJydNo22lr4_wIGwW1Wa?dl=0
 https://www.dropbox.com/sh/47wihas4gp1ywf1/AABa6uqSqq46XhKhPDYc-7Ana?dl=0
 https://vimeo.com/712404374
+
+## A speech of the Fountain
+
+https://drive.google.com/drive/folders/19YC9lxMCIHl9e37ImsYA3p7ImG5ShSPV?usp=sharing
