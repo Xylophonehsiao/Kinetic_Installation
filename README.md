@@ -20,7 +20,7 @@ https://www.dropbox.com/sh/47wihas4gp1ywf1/AABa6uqSqq46XhKhPDYc-7Ana?dl=0
 https://vimeo.com/712404374
 
 ## A speech of the Fountain
-Adding file to Ubuntu Startup 
+Adding file to Ubuntu Startup   
   xdg-open [/path/]filename
 
 https://drive.google.com/drive/folders/19YC9lxMCIHl9e37ImsYA3p7ImG5ShSPV?usp=sharing
