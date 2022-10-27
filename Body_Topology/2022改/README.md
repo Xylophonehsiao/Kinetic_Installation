@@ -7,7 +7,7 @@
 
 
 ## Pinout  
-const int In1   = 2;      //for LED -
-const int In2   = 3;      //for LED +
-const int In3   = 4;      //for Motor
+const int In1   = 2;      //for LED -  
+const int In2   = 3;      //for LED +  
+const int In3   = 4;      //for Motor  
 const int In4   = 5;
