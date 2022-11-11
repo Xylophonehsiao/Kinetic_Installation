@@ -12,3 +12,6 @@ Adding file to Ubuntu Startup
   xdg-open [/path/]filename
 
 https://drive.google.com/drive/folders/19YC9lxMCIHl9e37ImsYA3p7ImG5ShSPV?usp=sharing
+
+
+https://pan.baidu.com/wap/init?surl=y33_WN36kOIeeFrHng1tkQ
