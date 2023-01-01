@@ -4,7 +4,9 @@
 
 ## 2023 version
 ### Hareware
-Using Hall effect sensor to make a feedback system to replace the original one (touching limit switch)  
+Using Hall effect sensor(A3144) to make a feedback system to replace the original one (touching limit switch)  
+REMEMBER Hall effect sensor detact on the SMALL SIDE !!!   
+
 ### Electronic
 Add another Arduino to receieve the MIDI ?!   
 And the Computer side need an Arduino to send MIDI Signal or using long USB wire to contect?  
