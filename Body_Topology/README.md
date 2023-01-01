@@ -13,6 +13,7 @@ And the Computer side need an Arduino to send MIDI Signal or using long USB wire
 ### Software 
 Add MIDI Control for final performance  
 Need to test QLab MIDI control!  
+Need  reset step in Arduino code ~~~
 
 
 ## 2022 version (Hands and Wireless)
