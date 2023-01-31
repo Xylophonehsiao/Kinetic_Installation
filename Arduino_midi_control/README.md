@@ -7,9 +7,8 @@ cd Downloads/
 
 sudo dfu-programmer atmega16u2 erase  
 
-
 sudo dfu-programmer atmega16u2 flash arduino_midi.hex  
 sudo dfu-programmer atmega16u2 flash usbserial-atmega16u2.hex  
+sudo dfu-programmer atmega16u2 flash usbserial-atmega16u2-Uno.hex  
 
 sudo dfu-programmer atmega16u2 reset  
-
