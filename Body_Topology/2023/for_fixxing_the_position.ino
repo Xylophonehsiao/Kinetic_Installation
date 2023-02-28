@@ -66,18 +66,18 @@ void loop() {
 //  Serial.println(digitalRead(signalIN2));
   //Serial.println(analogRead(magnet));
   buttonCount();
-  delay(50);
+  delay(60);
   
   if (motor_butt == 1){
     //Serial.println("1-1");
     tightR();
     light();
-    delay(200);
+    delay(250);
   }else if (motor_butt == 2){
     //Serial.println("2-1");
     releaseR();
     light();
-    delay(200);
+    delay(250);
   }if (motor_butt != 0 && analogRead(magnet) < 700){
       motor_butt = 0;
       //delay(100);
@@ -120,7 +120,7 @@ void buttonCount(){
     button1 = 1;
     mag_butt = 1;
     motor_butt = 1;
-    delay(200);
+    delay(100);
   }else if (digitalRead(signalIN1) == 0 && button1 == 1){
     button1 = 0;
   }
@@ -128,7 +128,7 @@ void buttonCount(){
     button2 = 1;
     mag_butt = 2;
     motor_butt = 2;
-    delay(200);
+    delay(100);
   }else if (digitalRead(signalIN2) == 0 && button2 == 1){
     button2 = 0;
   }
