@@ -10,6 +10,26 @@ REMEMBER Hall effect sensor detact on the SMALL SIDE !!!
 ### Electronic
 Add another Arduino to receieve the MIDI ?!   
 And the Computer side need an Arduino to send MIDI Signal or using long USB wire to contect?  
+
+1 黃
+2 綠
+3 藍
+4紫
+5 (紅)
+6 (黑)
+7 黑 12-
+8 紅 12+
+
+Wire
+1 black
+2 white
+3 red
+4 green
+5 yellow
+6 blue 
+7 brown
+8 oringe
+  
 ### Software 
 Add MIDI Control for final performance  
 Need to test QLab MIDI control!  
