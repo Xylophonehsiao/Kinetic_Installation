@@ -13,8 +13,8 @@
 int light_value = 0;
 const int light_gate = 300; //maximum for 3.3V is 500
 int light_state = 0;
+int control_value = 0;
 int control_state = 0;
-int main_state = 0;
 
 void setup() {
   pinMode(IN1,    OUTPUT);
@@ -28,17 +28,17 @@ void setup() {
   digitalWrite(IN3, HIGH);
   digitalWrite(IN4, HIGH);
   light_value = analogRead(light);
-  control_state = digitalRead(control);
+  control_value = digitalRead(control);
   Serial.begin(9600);
   delay(5000);
 }
 
 void loop() {
   light_value = analogRead(light);
-  control_state = digitalRead(control);
+  control_value = digitalRead(control);
 //  Serial.print(light_value);
 //  Serial.print(" , ");
-//  Serial.println(control_state);
+//  Serial.println(control_value);
   
 //  if (light_value > light_gate){
 //    light_state = 1;
@@ -46,8 +46,8 @@ void loop() {
 //    light_state = 0;
 //  }
   //if (light_state == 0 && control_state == 0){
-  if (control_state == 0 && main_state == 0){
-    main_state = 1;
+  if (control_value == 0 && control_state == 0){
+    control_state = 1;
     IN1_pin();
     delay(5000);
     for (int i = 0; i < 3; i++){
@@ -56,9 +56,12 @@ void loop() {
     }
     delay(10000);
     IN3_pin();
+    delay(500000);
+    IN4_pin();
   }
-  if (control_state == 1){
-    main_state = 0;
+  if (control_value == 1){
+    control_state = 0;
+    IN4_pin();
   }
 }
 
