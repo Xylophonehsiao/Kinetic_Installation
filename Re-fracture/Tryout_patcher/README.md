@@ -4,4 +4,4 @@ using "addroute" library in Blender
 Max/msp captures osc signal from two iPhone (with GrtOSC application),  
 and send to Blender & another computer by osc signal.  
 
-Also using midi controller to control some value in Blender~  
+Also using midi controller to control some value real time in Blender~  
