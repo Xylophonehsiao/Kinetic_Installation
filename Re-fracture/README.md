@@ -1,5 +1,5 @@
 ## EMG Module's Note  
-https://www.yuque.com/cs/products/wc763c#DcNVK  
+https://www.yuque.com/cs/products/wc763c#2lFW9  
 Red is for reference,  
 yellow and green is for detected musle.  
 
