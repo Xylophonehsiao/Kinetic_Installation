@@ -6,3 +6,4 @@ yellow and green is for detected musle.
 
 ## Arduino Nano 33 IOT's Note  
 https://docs.arduino.cc/static/b667cfab43e108eb602351860e110776/ABX00027-datasheet.pdf  
+around 400mA   
