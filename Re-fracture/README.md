@@ -7,4 +7,4 @@ yellow and green is for detected musle.
 ## Arduino Nano 33 IOT's Note  
 https://docs.arduino.cc/static/b667cfab43e108eb602351860e110776/ABX00027-datasheet.pdf  
 around 400mA   
-charging around 1 hr  
+for 104050 battery : 5hr, charging around 1 hr  
