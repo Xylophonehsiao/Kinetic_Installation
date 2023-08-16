@@ -10,3 +10,6 @@ around 400mA
 for 103450 battery (2000mAh) : 5hr, charging around 1 hr  
 for 802040 battery (700mAh) : 3.5hr, charging around 1 hr  
 for 402030 battery (200mAh) : 1hr?, charging around 1 hr  
+
+## Wifi setting  
+DHCP setting mac address to stable IP address  
