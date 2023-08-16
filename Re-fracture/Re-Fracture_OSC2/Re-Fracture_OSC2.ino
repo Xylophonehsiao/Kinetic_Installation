@@ -30,10 +30,10 @@ float Gx, Gy, Gz;
 
 WiFiUDP Udp;
 
-IPAddress ip(192, 168, 0, 102);
-unsigned int localPort = 7401;      // local port to listen on
+IPAddress ip(192, 168, 0, 104);
+unsigned int localPort = 7402;      // local port to listen on
 IPAddress outIp(192, 168, 0, 101);
-const unsigned int outPort = 7500;
+const unsigned int outPort = 7600;
 
 void setup() {
   //Initialize serial and wait for port to open:
